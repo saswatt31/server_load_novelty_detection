@@ -1,0 +1,11 @@
+metric,value
+total_false_positives,323.0
+false_positives_post_leak,208.0
+false_positives_other,115.0
+mean_mem_pct_post_leak_fp,70.36
+mean_mem_pct_healthy_windows,56.67
+precision_after_correction,0.866
+recall_after_correction,0.9907
+f1_after_correction,0.9241
+windows_with_unreliable_labels,3890.0
+windows_evaluated_after_correction,3298.0

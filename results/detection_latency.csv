@@ -1,0 +1,5 @@
+incident_type,start,end,duration_samples,detected,latency_samples,latency_minutes
+cpu_spike,2026-09-01 07:30:00,2026-09-01 07:49:30,40,True,0,0.0
+mem_leak,2026-09-01 21:40:00,2026-09-02 00:39:30,360,True,4,2.0
+cpu_spike,2026-09-02 11:50:00,2026-09-02 12:14:30,50,True,1,0.5
+mem_leak,2026-09-03 02:50:00,2026-09-03 05:19:30,300,True,2,1.0

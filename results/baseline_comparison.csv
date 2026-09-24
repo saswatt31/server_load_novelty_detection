@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Static 3-sigma threshold,0.9926,0.9485,0.9827,0.9653,0.994
+Isolation Forest,0.9542,0.6977,0.9907,0.8187,0.987
+One-Class SVM (proposed),0.9541,0.697,0.9907,0.8183,0.9915

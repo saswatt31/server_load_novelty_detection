@@ -1,0 +1,33 @@
+model,param,incident_type,windows,recall
+Static 3-sigma threshold,1.5,cpu_spike,90,0.9889
+Static 3-sigma threshold,1.5,mem_leak,660,0.9909
+Static 3-sigma threshold,2.0,cpu_spike,90,0.9667
+Static 3-sigma threshold,2.0,mem_leak,660,0.9909
+Static 3-sigma threshold,2.5,cpu_spike,90,0.9556
+Static 3-sigma threshold,2.5,mem_leak,660,0.9894
+Static 3-sigma threshold,3.0,cpu_spike,90,0.9556
+Static 3-sigma threshold,3.0,mem_leak,660,0.9864
+Static 3-sigma threshold,4.0,cpu_spike,90,0.9444
+Static 3-sigma threshold,4.0,mem_leak,660,0.9848
+Static 3-sigma threshold,5.0,cpu_spike,90,0.9333
+Static 3-sigma threshold,5.0,mem_leak,660,0.9803
+Isolation Forest,0.005,cpu_spike,90,0.9667
+Isolation Forest,0.005,mem_leak,660,0.2394
+Isolation Forest,0.01,cpu_spike,90,0.9778
+Isolation Forest,0.01,mem_leak,660,0.7773
+Isolation Forest,0.02,cpu_spike,90,0.9778
+Isolation Forest,0.02,mem_leak,660,0.9682
+Isolation Forest,0.05,cpu_spike,90,0.9889
+Isolation Forest,0.05,mem_leak,660,0.9909
+Isolation Forest,0.1,cpu_spike,90,0.9889
+Isolation Forest,0.1,mem_leak,660,0.9909
+One-Class SVM (proposed),0.005,cpu_spike,90,0.9778
+One-Class SVM (proposed),0.005,mem_leak,660,0.9833
+One-Class SVM (proposed),0.01,cpu_spike,90,0.9778
+One-Class SVM (proposed),0.01,mem_leak,660,0.9894
+One-Class SVM (proposed),0.02,cpu_spike,90,0.9778
+One-Class SVM (proposed),0.02,mem_leak,660,0.9909
+One-Class SVM (proposed),0.05,cpu_spike,90,0.9889
+One-Class SVM (proposed),0.05,mem_leak,660,0.9909
+One-Class SVM (proposed),0.1,cpu_spike,90,0.9889
+One-Class SVM (proposed),0.1,mem_leak,660,0.9909
