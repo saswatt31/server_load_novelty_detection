@@ -1,4 +1,4 @@
-# Server Load Novelty Detection (One-Class SVM) — PRIORITY
+# Server Load Novelty Detection (One-Class SVM)
 
 Detects **unexpected CPU usage spikes** and **memory leaks** in Node.js-based
 automation containers using a **One-Class SVM** trained only on healthy telemetry.
