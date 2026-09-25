@@ -1,0 +1,12 @@
+# Core ML and Data Processing
+numpy>=1.26.0
+pandas>=2.0.0
+scikit-learn>=1.4.0
+matplotlib>=3.8.0
+
+# Slide Generation and Image Processing
+pillow>=10.0.0
+python-pptx>=1.0.0
+
+# Optional: PDF Inspection & Processing
+PyMuPDF>=1.24.0
